@@ -1,0 +1,1 @@
+python Pipeline_Luigi.py DataDownloadcls --local-scheduler --acckey "<access key>" --accsec "<secret access key>"
